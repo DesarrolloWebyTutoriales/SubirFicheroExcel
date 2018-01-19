@@ -8,6 +8,6 @@ Instrucciones:
 
 3. Crear una carpeta con el nombre <strong>tmp_excel</strong> dentro de la aplicación.
 
-3. Ejecutar la aplicacion.
+3. Si estan en un servidor local, ejecutar la aplicacion con <strong>http://localhost/<nombre-de-tu-aplicacion>/</strong>
 
 4. Listo.
