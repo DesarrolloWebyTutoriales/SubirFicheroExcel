@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Subir Ficheros con excel</title>
+<script type="text/javascript">
+	function cargarHojaExcel()
+	{
+		if(document.frmcargararchivo.excel.value=="")
+		{
+			alert("Suba un archivo");
+			document.frmcargararchivo.excel.focus();
+			return false;
+		}		
+
+		document.frmcargararchivo.action = "procesar.php";
+		document.frmcargararchivo.submit();
+	}
+
+</script>
+</head>
+
+<body>
+<article>
+	<section>
+		<h1>Subir archivos de excel con php</h1>
+		<form name="frmcargararchivo" method="post" enctype="multipart/form-data">
+		  <p>Subir excel</p> 
+		  <p><input type="file" name="excel" id="excel" /></p>
+		  <p><input type="button" value="subir" onclick="cargarHojaExcel();" /></p>
+		</form>
+	</section>
+</article>
+</body>
+</html>
