@@ -1,5 +1,4 @@
 # Subir fichero excel y guardar los datos en una tabla en PHP y MySQL
-Subir fichero excel y guardar los datos en una tabla en PHP y MySQL
 
 Instrucciones:
 
