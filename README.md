@@ -6,7 +6,7 @@ Instrucciones:
 
 2. Cambiar el usuario y clave de tu mysql que esta en el archivo conexion.php.
 
-3. Crear una carpeta con el nombre <strong>tmp_excel</strong> para que suban el fichero de prueba.
+3. Crear una carpeta con el nombre <strong>tmp_excel</strong> dentro de la aplicación.
 
 3. Ejecutar la aplicacion.
 
