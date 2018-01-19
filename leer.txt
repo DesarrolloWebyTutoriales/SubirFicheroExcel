@@ -1,0 +1,12 @@
+Instrucciones
+------------------
+
+1. Descomprimir el archivo.
+
+2. Cambiar el usuario y clave de tu mysql que esta en el archivo conexion.php.
+
+3. En la carpeta archivo de ejemplo esta el excel para que subar el fichero de prueba.
+
+3. Ejecutar la aplicacion.
+
+4. Listo.
